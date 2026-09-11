@@ -619,7 +619,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS00"
 			(at 0 5.28 90)
 			(layer "F.Fab")
 			(uuid "bb1ee6c2-c094-42a6-9998-2c6cb878a10a")
@@ -1060,7 +1060,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "HY5117404B"
 			(at 0 10.16 90)
 			(layer "F.Fab")
 			(uuid "33272adc-88b8-4e5d-b4f8-ee7bf016ed22")
@@ -1649,7 +1649,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS08"
 			(at 0 5.28 90)
 			(layer "F.Fab")
 			(uuid "bf762341-180a-4234-85af-933a1878ed69")
@@ -2248,7 +2248,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS125"
 			(at 0 5.28 90)
 			(layer "F.Fab")
 			(uuid "44dde7a9-2c6d-48e8-9020-1d106d7187af")
@@ -4918,7 +4918,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "HY5117404B"
 			(at 0 10.16 90)
 			(layer "F.Fab")
 			(uuid "2db88511-b68c-42a2-9824-60bd219140cd")
@@ -5982,7 +5982,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS125"
 			(at 0 5.28 90)
 			(layer "F.Fab")
 			(uuid "01904877-7fc9-4ae4-857d-b5b5658678bb")
@@ -7973,7 +7973,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS125"
 			(at 0 5.28 90)
 			(layer "F.Fab")
 			(uuid "98c3151b-2ec2-46ba-83fb-8cc67f0150f0")
@@ -8415,7 +8415,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Pin Header 2x9 2,54mm Rounded"
 			(at 1.27 -22.7 90)
 			(layer "B.Fab")
 			(uuid "646821f7-4420-4520-b937-d6721ac927a8")
@@ -8862,7 +8862,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Pin Header 2x9 2,54mm Rounded"
 			(at 1.27 -22.7 90)
 			(layer "B.Fab")
 			(uuid "3d8f84eb-c5ec-4434-b524-fc475aab6ce2")
@@ -9309,7 +9309,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Pin Header 2x7 2,54mm Rounded"
 			(at 1.27 -17.62 90)
 			(layer "B.Fab")
 			(uuid "6a2ee5b0-88be-4a0e-a5ae-017d2f1f9d43")
@@ -9710,7 +9710,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Pin Header 2x8 2,54mm Rounded"
 			(at 1.27 -20.16 90)
 			(layer "B.Fab")
 			(uuid "894e396f-dbb9-44dc-8ce1-0424c96db04e")
@@ -10145,7 +10145,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Pin Header 2x8 2,54mm Rounded"
 			(at 1.27 -20.16 90)
 			(layer "B.Fab")
 			(uuid "ebf014af-63cb-4afe-8b75-203d0ad86afb")

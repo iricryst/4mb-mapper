@@ -2253,7 +2253,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "HY5117404B"
 			(at 78.74 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2399,7 +2399,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Pin Header 2x9 2,54mm Rounded"
 			(at 184.15 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2609,7 +2609,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "Pin Header 2x9 2,54mm Rounded"
 			(at 119.38 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2736,7 +2736,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "HY5117404B"
 			(at 77.47 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)

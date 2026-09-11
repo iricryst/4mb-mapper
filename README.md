@@ -23,7 +23,7 @@ Why design a yet another PCB, while there are so many other solutions?
 
 ## BOM
 
-<a href="./bom/ibom.html" target="_blank" rel="noopener noreferrer">BOM</a>
+<a href="./KICAD/bom/ibom.html" target="_blank" rel="noopener noreferrer">BOM</a>
 
 ## Manual
 
