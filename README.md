@@ -1,4 +1,4 @@
-# Philips NMS82080 MSX2 4MB memory mapper
+# Philips NMS8280 MSX2 4MB memory mapper
 
 ![4MB mapper PCB](./KICAD/4mbmapper.png)
 
