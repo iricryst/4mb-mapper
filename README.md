@@ -25,11 +25,11 @@ Why design a yet another PCB, while there are so many other solutions?
 
 <a href="./bom/ibom.html" target="_blank" rel="noopener noreferrer">BOM</a>
 
-## Manual
+### Manual
 
 wip
 
-### Reference and documentation
+#### Reference and documentation
 
 - [Hans Oranje paper in Dutch](./DOC/4mbnms8280.pdf)
 - [HY5117404B](./DOC/HY5117404B.pdf)
