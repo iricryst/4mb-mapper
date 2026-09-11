@@ -25,6 +25,14 @@ Why design a yet another PCB, while there are so many other solutions?
 
 <a href="./KICAD/bom/ibom.html" target="_blank" rel="noopener noreferrer">BOM</a>
 
+## Alternative PCB version
+
+The [`KICAD_670_DIP`](./KICAD_670_DIP/) folder contains a second version of the
+PCB and schematic. It is intended for the DIP-package `74LS670` variant, which
+is provided as an alternative because of market availability.
+
+<a href="./KICAD_670_DIP/bom/ibom.html" target="_blank" rel="noopener noreferrer">DIP version BOM</a>
+
 ## Manual
 
 wip

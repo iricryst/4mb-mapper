@@ -1,0 +1,5669 @@
+(export
+	(version "E")
+	(design
+		(source "C:\\4mb mapper nms8280\\KICAD\\4mb mapper nms8280.kicad_sch")
+		(date "2026-09-11T17:44:04")
+		(tool "Eeschema 10.0.6")
+		(sheet
+			(number "1")
+			(name "/4mb mapper nms8280/")
+			(tstamps "/")
+			(title_block
+				(title "4MB MAPPER NMS8280")
+				(company)
+				(rev)
+				(date "2026-08-30")
+				(source "4mb mapper nms8280.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+		(sheet
+			(number "2")
+			(name "/ram section/")
+			(tstamps "/")
+			(title_block
+				(title)
+				(company)
+				(rev)
+				(date)
+				(source "ram_section.kicad_sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "C131")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "13f5dc08-e489-485d-89d1-b2f99d4a494e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C131B1")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "5c8722e0-a5d5-4e11-9597-b86bab3910b1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C131B2")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "84bb7918-e1d8-43c5-bc01-6fb2ddb9bb8d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C147")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "aa8871dc-c07a-4637-b503-7446fd0cd724")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C147B1")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "063ddcf9-b45a-4155-93c8-8330af1c0033")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C149")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "4272dff2-e2e0-4045-8f67-8648a558b8fc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C149B1")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "8a5866a5-38c6-49b2-a38d-cf8f79bb1554")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C157B1")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "926fec2e-b70f-4844-bb63-327294d398e7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C180B1")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "9db4ea8f-4bd2-4c52-9de7-c71cdb9f822a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "CONN131")
+			(value "~")
+			(footprint "custom_footprints:PinHeader_2x07_P2.54mm_Vertical")
+			(fields
+				(field
+					(name "Footprint") "custom_footprints:PinHeader_2x07_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "DIP14_Connector")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "f7fb41fb-491c-4be6-864a-023f87e3d444")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "CONN147")
+			(value "~")
+			(footprint "custom_footprints:PinHeader_2x08_P2.54mm_Vertical")
+			(fields
+				(field
+					(name "Footprint") "custom_footprints:PinHeader_2x08_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "DIP16_Connector_LS157")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "983959f8-1161-4c1e-981d-1a26589fca69")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "CONN149")
+			(value "~")
+			(footprint "custom_footprints:PinHeader_2x08_P2.54mm_Vertical")
+			(fields
+				(field
+					(name "Footprint") "custom_footprints:PinHeader_2x08_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "DIP16_Connector_LS670")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "fd0b970e-6f34-4ba2-95f0-3ba716654a6b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC131")
+			(value "~")
+			(footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "SN74LS125")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "30a9dbdf-962e-4338-bb4d-7cc4815e1c9b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC131B1")
+			(value "~")
+			(footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "SN74LS125")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "33a6eb34-bf78-4d8e-8a7a-2583b6157577")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC131C1")
+			(value "~")
+			(footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "SN74LS125")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "7b0d9e06-a80f-4f74-8356-c6508c641849")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC147")
+			(value "74LS157")
+			(footprint "Package_SO:SOIC-16W_5.3x10.2mm_P1.27mm")
+			(datasheet "http://www.ti.com/lit/gpn/sn74LS157")
+			(description "Quad 2 to 1 line Multiplexer")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SOIC-16W_5.3x10.2mm_P1.27mm")
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/gpn/sn74LS157")
+				(field
+					(name "Description") "Quad 2 to 1 line Multiplexer")
+			)
+			(libsource
+				(lib "74xx")
+				(part "74LS157")
+				(description "Quad 2 to 1 line Multiplexer")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "TTL MUX MUX2")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "DIP?16*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "4c3a1dfc-de44-4344-9f88-d3987ea2bf56")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "12")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC147B1")
+			(value "74LS157")
+			(footprint "Package_SO:SOIC-16W_5.3x10.2mm_P1.27mm")
+			(datasheet "http://www.ti.com/lit/gpn/sn74LS157")
+			(description "Quad 2 to 1 line Multiplexer")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SOIC-16W_5.3x10.2mm_P1.27mm")
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/gpn/sn74LS157")
+				(field
+					(name "Description") "Quad 2 to 1 line Multiplexer")
+			)
+			(libsource
+				(lib "74xx")
+				(part "74LS157")
+				(description "Quad 2 to 1 line Multiplexer")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "TTL MUX MUX2")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "DIP?16*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "ecac232c-773f-42c1-990e-5c219949210b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "12")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC149")
+			(value "74LS670")
+			(footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+			(datasheet "http://www.ti.com/lit/gpn/sn74LS670")
+			(description "4 x 4 Register Files 3-State Outputs")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/gpn/sn74LS670")
+				(field
+					(name "Description") "4 x 4 Register Files 3-State Outputs")
+			)
+			(libsource
+				(lib "74xx")
+				(part "74LS670")
+				(description "4 x 4 Register Files 3-State Outputs")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "TTL Register 3State")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "DIP?16*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "47270c82-4612-4d7b-a640-4e6c3ba5f303")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC149B1")
+			(value "74LS670")
+			(footprint "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+			(datasheet "http://www.ti.com/lit/gpn/sn74LS670")
+			(description "4 x 4 Register Files 3-State Outputs")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm")
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/gpn/sn74LS670")
+				(field
+					(name "Description") "4 x 4 Register Files 3-State Outputs")
+			)
+			(libsource
+				(lib "74xx")
+				(part "74LS670")
+				(description "4 x 4 Register Files 3-State Outputs")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "TTL Register 3State")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "DIP?16*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "1608fd91-40a5-47de-abb3-e55203739379")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC157B1")
+			(value "~")
+			(footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "SN74LS08")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "6782be7a-eb86-4dee-bd85-e475065f6770")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC180B1")
+			(value "~")
+			(footprint "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "SN74LS00")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "01961b94-8250-430d-8a5f-c45ba49d3ba4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "J1")
+			(value "Conn_01x10_Pin")
+			(footprint "Connector_PinHeader_1.27mm:PinHeader_1x10_P1.27mm_Horizontal")
+			(description "Generic connector, single row, 01x10, script generated")
+			(fields
+				(field
+					(name "Footprint") "Connector_PinHeader_1.27mm:PinHeader_1x10_P1.27mm_Horizontal")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x10, script generated")
+			)
+			(libsource
+				(lib "Connector")
+				(part "Conn_01x10_Pin")
+				(description "Generic connector, single row, 01x10, script generated")
+			)
+			(property
+				(name "Sheetname")
+				(value "4mb mapper nms8280")
+			)
+			(property
+				(name "Sheetfile")
+				(value "4mb mapper nms8280.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/4mb mapper nms8280/")
+				(tstamps "/")
+			)
+			(tstamps "0a13918b-c4c7-42a2-a649-7a8296bdcc04")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C1")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "ram section")
+			)
+			(property
+				(name "Sheetfile")
+				(value "ram_section.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/ram section/")
+				(tstamps "/")
+			)
+			(tstamps "2a3f8a1e-8e3f-4a11-859e-0647a6080242")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C2")
+			(value "100nf")
+			(footprint "Capacitor_SMD:C_0805_2012Metric")
+			(description "Unpolarized capacitor, small symbol")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0805_2012Metric")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(libsource
+				(lib "Device")
+				(part "C_Small")
+				(description "Unpolarized capacitor, small symbol")
+			)
+			(property
+				(name "Sheetname")
+				(value "ram section")
+			)
+			(property
+				(name "Sheetfile")
+				(value "ram_section.kicad_sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "capacitor cap")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/ram section/")
+				(tstamps "/")
+			)
+			(tstamps "b331a4ff-6029-4de1-a01e-b21500331f18")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "CONN133")
+			(value "~")
+			(footprint "custom_footprints:PinHeader_2x09_P2.54mm_Vertical")
+			(fields
+				(field
+					(name "Footprint") "custom_footprints:PinHeader_2x09_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "1464")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "ram section")
+			)
+			(property
+				(name "Sheetfile")
+				(value "ram_section.kicad_sch")
+			)
+			(sheetpath
+				(names "/ram section/")
+				(tstamps "/")
+			)
+			(tstamps "4fc60c1b-b5f9-4568-9d97-49b1d0dd6577")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "CONN134")
+			(value "~")
+			(footprint "custom_footprints:PinHeader_2x09_P2.54mm_Vertical")
+			(fields
+				(field
+					(name "Footprint") "custom_footprints:PinHeader_2x09_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "1464")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "ram section")
+			)
+			(property
+				(name "Sheetfile")
+				(value "ram_section.kicad_sch")
+			)
+			(sheetpath
+				(names "/ram section/")
+				(tstamps "/")
+			)
+			(tstamps "d4652a6c-8179-42f3-8f39-0a9cbb203c89")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "10")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U1")
+			(value "~")
+			(footprint "custom_footprints:SOJ-2624_7.62x18.415mm_P1.27mm")
+			(fields
+				(field
+					(name "Footprint") "custom_footprints:SOJ-2624_7.62x18.415mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "hyb5117400bj")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "ram section")
+			)
+			(property
+				(name "Sheetfile")
+				(value "ram_section.kicad_sch")
+			)
+			(sheetpath
+				(names "/ram section/")
+				(tstamps "/")
+			)
+			(tstamps "f4ef5538-80f4-4876-b70b-65a5f151022b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "26")
+						)
+						(pin
+							(num "25")
+						)
+						(pin
+							(num "24")
+						)
+						(pin
+							(num "23")
+						)
+						(pin
+							(num "22")
+						)
+						(pin
+							(num "21")
+						)
+						(pin
+							(num "19")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "14")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U2")
+			(value "~")
+			(footprint "custom_footprints:SOJ-2624_7.62x18.415mm_P1.27mm")
+			(fields
+				(field
+					(name "Footprint") "custom_footprints:SOJ-2624_7.62x18.415mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "vintage_ic")
+				(part "hyb5117400bj")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "ram section")
+			)
+			(property
+				(name "Sheetfile")
+				(value "ram_section.kicad_sch")
+			)
+			(sheetpath
+				(names "/ram section/")
+				(tstamps "/")
+			)
+			(tstamps "39a5dbce-6171-4681-8929-4b4aa094b75c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "26")
+						)
+						(pin
+							(num "25")
+						)
+						(pin
+							(num "24")
+						)
+						(pin
+							(num "23")
+						)
+						(pin
+							(num "22")
+						)
+						(pin
+							(num "21")
+						)
+						(pin
+							(num "19")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "14")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "74xx")
+			(part "74LS157")
+			(description "Quad 2 to 1 line Multiplexer")
+			(docs "http://www.ti.com/lit/gpn/sn74LS157")
+			(footprints
+				(fp "DIP?16*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "74LS157")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/gpn/sn74LS157")
+				(field
+					(name "Description") "Quad 2 to 1 line Multiplexer")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "S")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "I0a")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "I1a")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "Za")
+					(type "output")
+				)
+				(pin
+					(num "5")
+					(name "I0b")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "I1b")
+					(type "input")
+				)
+				(pin
+					(num "7")
+					(name "Zb")
+					(type "output")
+				)
+				(pin
+					(num "8")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "9")
+					(name "Zc")
+					(type "output")
+				)
+				(pin
+					(num "10")
+					(name "I1c")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "I0c")
+					(type "input")
+				)
+				(pin
+					(num "12")
+					(name "Zd")
+					(type "output")
+				)
+				(pin
+					(num "13")
+					(name "I1d")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "I0d")
+					(type "input")
+				)
+				(pin
+					(num "15")
+					(name "E")
+					(type "input")
+				)
+				(pin
+					(num "16")
+					(name "VCC")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "74xx")
+			(part "74LS670")
+			(description "4 x 4 Register Files 3-State Outputs")
+			(docs "http://www.ti.com/lit/gpn/sn74LS670")
+			(footprints
+				(fp "DIP?16*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "74LS670")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet") "http://www.ti.com/lit/gpn/sn74LS670")
+				(field
+					(name "Description") "4 x 4 Register Files 3-State Outputs")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "D2")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "D3")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "D4")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "Rb")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "Ra")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "Q4")
+					(type "tri_state")
+				)
+				(pin
+					(num "7")
+					(name "Q3")
+					(type "tri_state")
+				)
+				(pin
+					(num "8")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "9")
+					(name "Q2")
+					(type "tri_state")
+				)
+				(pin
+					(num "10")
+					(name "Q1")
+					(type "tri_state")
+				)
+				(pin
+					(num "11")
+					(name "~{Er}")
+					(type "input")
+				)
+				(pin
+					(num "12")
+					(name "~{Ew}")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "Wb")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "Wa")
+					(type "input")
+				)
+				(pin
+					(num "15")
+					(name "D1")
+					(type "input")
+				)
+				(pin
+					(num "16")
+					(name "VCC")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector")
+			(part "Conn_01x10_Pin")
+			(description "Generic connector, single row, 01x10, script generated")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x10_Pin")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x10, script generated")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "Pin_4")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "Pin_5")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "Pin_6")
+					(type "passive")
+				)
+				(pin
+					(num "7")
+					(name "Pin_7")
+					(type "passive")
+				)
+				(pin
+					(num "8")
+					(name "Pin_8")
+					(type "passive")
+				)
+				(pin
+					(num "9")
+					(name "Pin_9")
+					(type "passive")
+				)
+				(pin
+					(num "10")
+					(name "Pin_10")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "C_Small")
+			(description "Unpolarized capacitor, small symbol")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "C_Small")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor, small symbol")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "vintage_ic")
+			(part "1464")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint") "custom_footprints:PinHeader_2x09_P2.54mm_Vertical")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "OE")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "D0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "D1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "WE")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "RAS")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "A6")
+					(type "input")
+				)
+				(pin
+					(num "7")
+					(name "A5")
+					(type "input")
+				)
+				(pin
+					(num "8")
+					(name "A4")
+					(type "input")
+				)
+				(pin
+					(num "9")
+					(name "Vcc")
+					(type "power_in")
+				)
+				(pin
+					(num "10")
+					(name "A7")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "A3")
+					(type "input")
+				)
+				(pin
+					(num "12")
+					(name "A2")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "A1")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "A0")
+					(type "input")
+				)
+				(pin
+					(num "15")
+					(name "D2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "16")
+					(name "CAS")
+					(type "input")
+				)
+				(pin
+					(num "17")
+					(name "D3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "18")
+					(name "GND")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "vintage_ic")
+			(part "DIP14_Connector")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint") "Package_DIP:DIP-14_W7.62mm_Socket")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1A")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "1B")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "1Y")
+					(type "output")
+				)
+				(pin
+					(num "4")
+					(name "2A")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "2B")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "2Y")
+					(type "output")
+				)
+				(pin
+					(num "7")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "8")
+					(name "3Y")
+					(type "output")
+				)
+				(pin
+					(num "9")
+					(name "3A")
+					(type "input")
+				)
+				(pin
+					(num "10")
+					(name "3B")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "4Y")
+					(type "output")
+				)
+				(pin
+					(num "12")
+					(name "4A")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "4B")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "Vcc")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "vintage_ic")
+			(part "DIP16_Connector_LS157")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint") "Package_DIP:DIP-14_W7.62mm_Socket")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "S")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "A0")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "B0")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "Y0")
+					(type "output")
+				)
+				(pin
+					(num "5")
+					(name "A1")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "B1")
+					(type "input")
+				)
+				(pin
+					(num "7")
+					(name "Y1")
+					(type "output")
+				)
+				(pin
+					(num "8")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "9")
+					(name "Y2")
+					(type "output")
+				)
+				(pin
+					(num "10")
+					(name "B2")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "A2")
+					(type "input")
+				)
+				(pin
+					(num "12")
+					(name "Y3")
+					(type "output")
+				)
+				(pin
+					(num "13")
+					(name "B3")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "A3")
+					(type "input")
+				)
+				(pin
+					(num "15")
+					(name "E")
+					(type "input")
+				)
+				(pin
+					(num "16")
+					(name "Vcc")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "vintage_ic")
+			(part "DIP16_Connector_LS670")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint") "Package_DIP:DIP-14_W7.62mm_Socket")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "D2")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "D3")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "D4")
+					(type "input")
+				)
+				(pin
+					(num "4")
+					(name "RB")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "RA")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "Q4")
+					(type "tri_state")
+				)
+				(pin
+					(num "7")
+					(name "Q3")
+					(type "tri_state")
+				)
+				(pin
+					(num "8")
+					(name "GND")
+					(type "power_out")
+				)
+				(pin
+					(num "9")
+					(name "Q2")
+					(type "tri_state")
+				)
+				(pin
+					(num "10")
+					(name "Q1")
+					(type "tri_state")
+				)
+				(pin
+					(num "11")
+					(name "ER")
+					(type "input")
+				)
+				(pin
+					(num "12")
+					(name "EW")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "WB")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "WA")
+					(type "input")
+				)
+				(pin
+					(num "15")
+					(name "D1")
+					(type "input")
+				)
+				(pin
+					(num "16")
+					(name "Vcc")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "vintage_ic")
+			(part "SN74LS00")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint") "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1A")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "1B")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "1Y")
+					(type "output")
+				)
+				(pin
+					(num "4")
+					(name "2A")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "2B")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "2Y")
+					(type "output")
+				)
+				(pin
+					(num "7")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "8")
+					(name "3Y")
+					(type "output")
+				)
+				(pin
+					(num "9")
+					(name "3A")
+					(type "input")
+				)
+				(pin
+					(num "10")
+					(name "3B")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "4Y")
+					(type "output")
+				)
+				(pin
+					(num "12")
+					(name "4A")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "4B")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "Vcc")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "vintage_ic")
+			(part "SN74LS08")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint") "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1A")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "1B")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "1Y")
+					(type "output")
+				)
+				(pin
+					(num "4")
+					(name "2A")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "2B")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "2Y")
+					(type "output")
+				)
+				(pin
+					(num "7")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "8")
+					(name "3Y")
+					(type "output")
+				)
+				(pin
+					(num "9")
+					(name "3A")
+					(type "input")
+				)
+				(pin
+					(num "10")
+					(name "3B")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "4Y")
+					(type "output")
+				)
+				(pin
+					(num "12")
+					(name "4A")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "4B")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "Vcc")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "vintage_ic")
+			(part "SN74LS125")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint") "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1E")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "1D")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "1O")
+					(type "tri_state")
+				)
+				(pin
+					(num "4")
+					(name "2E")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "2D")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "2O")
+					(type "tri_state")
+				)
+				(pin
+					(num "7")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "8")
+					(name "3O")
+					(type "tri_state")
+				)
+				(pin
+					(num "9")
+					(name "3D")
+					(type "input")
+				)
+				(pin
+					(num "10")
+					(name "3E")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "4O")
+					(type "tri_state")
+				)
+				(pin
+					(num "12")
+					(name "4D")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "4E")
+					(type "input")
+				)
+				(pin
+					(num "14")
+					(name "Vcc")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "vintage_ic")
+			(part "hyb5117400bj")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value")
+				)
+				(field
+					(name "Footprint") "custom_footprints:SOJ-2624_7.62x18.415mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Vcc")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "D0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "D1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "WE")
+					(type "input")
+				)
+				(pin
+					(num "5")
+					(name "RAS")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "NC")
+					(type "no_connect")
+				)
+				(pin
+					(num "8")
+					(name "A10")
+					(type "input")
+				)
+				(pin
+					(num "9")
+					(name "A0")
+					(type "input")
+				)
+				(pin
+					(num "10")
+					(name "A1")
+					(type "input")
+				)
+				(pin
+					(num "11")
+					(name "A2")
+					(type "input")
+				)
+				(pin
+					(num "12")
+					(name "A3")
+					(type "input")
+				)
+				(pin
+					(num "13")
+					(name "Vcc")
+					(type "power_in")
+				)
+				(pin
+					(num "14")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "15")
+					(name "A4")
+					(type "input")
+				)
+				(pin
+					(num "16")
+					(name "A5")
+					(type "input")
+				)
+				(pin
+					(num "17")
+					(name "A6")
+					(type "input")
+				)
+				(pin
+					(num "18")
+					(name "A7")
+					(type "input")
+				)
+				(pin
+					(num "19")
+					(name "A8")
+					(type "input")
+				)
+				(pin
+					(num "21")
+					(name "A9")
+					(type "input")
+				)
+				(pin
+					(num "22")
+					(name "OE")
+					(type "input")
+				)
+				(pin
+					(num "23")
+					(name "CAS")
+					(type "input")
+				)
+				(pin
+					(num "24")
+					(name "D2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "25")
+					(name "D3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "26")
+					(name "GND")
+					(type "power_in")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "74xx")
+			(uri "${KICAD10_SYMBOL_DIR}/74xx.kicad_sym")
+		)
+		(library
+			(logical "Connector")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector.kicad_sym")
+		)
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_sym")
+		)
+		(library
+			(logical "vintage_ic")
+			(uri "${KIPRJMOD}/vintage_ic.kicad_sym")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "/4mb mapper nms8280/131b_131c_p13")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "1")
+				(pinfunction "1A_1")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131")
+				(pin "1")
+				(pinfunction "1E_1")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131B1")
+				(pin "1")
+				(pinfunction "1E_1")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131B1")
+				(pin "13")
+				(pinfunction "4E_13")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131C1")
+				(pin "1")
+				(pinfunction "1E_1")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131C1")
+				(pin "13")
+				(pinfunction "4E_13")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "2")
+			(name "/4mb mapper nms8280/<NO NET>")
+			(class "Default")
+			(node
+				(ref "IC180B1")
+				(pin "1")
+				(pinfunction "1A_1")
+				(pintype "input")
+			)
+			(node
+				(ref "IC180B1")
+				(pin "2")
+				(pinfunction "1B_2")
+				(pintype "input")
+			)
+			(node
+				(ref "J1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "/4mb mapper nms8280/IC131_P2")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "2")
+				(pinfunction "1B_2")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131")
+				(pin "2")
+				(pinfunction "1D_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "4")
+			(name "/4mb mapper nms8280/IC131_P3")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "3")
+				(pinfunction "1Y_3")
+				(pintype "output")
+			)
+			(node
+				(ref "IC131")
+				(pin "3")
+				(pinfunction "1O_3")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "5")
+			(name "/4mb mapper nms8280/IC131_P4_IC131B")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "4")
+				(pinfunction "2A_4")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131")
+				(pin "4")
+				(pinfunction "2E_4")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131B1")
+				(pin "4")
+				(pinfunction "2E_4")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131C1")
+				(pin "4")
+				(pinfunction "2E_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "6")
+			(name "/4mb mapper nms8280/IC131_P5")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "5")
+				(pinfunction "2B_5")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131")
+				(pin "5")
+				(pinfunction "2D_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "7")
+			(name "/4mb mapper nms8280/IC131_P6")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "6")
+				(pinfunction "2Y_6")
+				(pintype "output")
+			)
+			(node
+				(ref "IC131")
+				(pin "6")
+				(pinfunction "2O_6")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "8")
+			(name "/4mb mapper nms8280/IC131_P8")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "8")
+				(pinfunction "3Y_8")
+				(pintype "output")
+			)
+			(node
+				(ref "IC131")
+				(pin "8")
+				(pinfunction "3O_8")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "9")
+			(name "/4mb mapper nms8280/IC131_P9")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "9")
+				(pinfunction "3A_9")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131")
+				(pin "9")
+				(pinfunction "3D_9")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "10")
+			(name "/4mb mapper nms8280/IC131_P10_IC131B")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "10")
+				(pinfunction "3B_10")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131")
+				(pin "10")
+				(pinfunction "3E_10")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131B1")
+				(pin "10")
+				(pinfunction "3E_10")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131C1")
+				(pin "10")
+				(pinfunction "3E_10")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "11")
+			(name "/4mb mapper nms8280/IC131_P11")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "11")
+				(pinfunction "4Y_11")
+				(pintype "output")
+			)
+			(node
+				(ref "IC131")
+				(pin "11")
+				(pinfunction "4O_11")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "12")
+			(name "/4mb mapper nms8280/IC131_P12")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "12")
+				(pinfunction "4A_12")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131")
+				(pin "12")
+				(pinfunction "4D_12")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "13")
+			(name "/4mb mapper nms8280/IC131_P13")
+			(class "Default")
+			(node
+				(ref "CONN131")
+				(pin "13")
+				(pinfunction "4B_13")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131")
+				(pin "13")
+				(pinfunction "4E_13")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "14")
+			(name "/4mb mapper nms8280/IC147_P1_IC147B")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "1")
+				(pinfunction "S_1")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "1")
+				(pinfunction "S_1")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "1")
+				(pinfunction "S_1")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "15")
+			(name "/4mb mapper nms8280/IC147_P2")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "2")
+				(pinfunction "A0_2")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "2")
+				(pinfunction "I0a_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "16")
+			(name "/4mb mapper nms8280/IC147_P3")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "3")
+				(pinfunction "B0_3")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "3")
+				(pinfunction "I1a_3")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "17")
+			(name "/4mb mapper nms8280/IC147_P4")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "4")
+				(pinfunction "Y0_4")
+				(pintype "output")
+			)
+			(node
+				(ref "IC147")
+				(pin "4")
+				(pinfunction "Za_4")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "18")
+			(name "/4mb mapper nms8280/IC147_P5")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "5")
+				(pinfunction "A1_5")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "5")
+				(pinfunction "I0b_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "19")
+			(name "/4mb mapper nms8280/IC147_P6")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "6")
+				(pinfunction "B1_6")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "6")
+				(pinfunction "I1b_6")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "20")
+			(name "/4mb mapper nms8280/IC147_P7")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "7")
+				(pinfunction "Y1_7")
+				(pintype "output")
+			)
+			(node
+				(ref "IC147")
+				(pin "7")
+				(pinfunction "Zb_7")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "21")
+			(name "/4mb mapper nms8280/IC147_P9")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "9")
+				(pinfunction "Y2_9")
+				(pintype "output")
+			)
+			(node
+				(ref "IC147")
+				(pin "9")
+				(pinfunction "Zc_9")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "22")
+			(name "/4mb mapper nms8280/IC147_P10")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "10")
+				(pinfunction "B2_10")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "10")
+				(pinfunction "I1c_10")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "23")
+			(name "/4mb mapper nms8280/IC147_P11")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "11")
+				(pinfunction "A2_11")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "11")
+				(pinfunction "I0c_11")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "24")
+			(name "/4mb mapper nms8280/IC147_P12")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "12")
+				(pinfunction "Y3_12")
+				(pintype "output")
+			)
+			(node
+				(ref "IC147")
+				(pin "12")
+				(pinfunction "Zd_12")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "25")
+			(name "/4mb mapper nms8280/IC147_P13")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "13")
+				(pinfunction "B3_13")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "13")
+				(pinfunction "I1d_13")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "26")
+			(name "/4mb mapper nms8280/IC147_P14")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "14")
+				(pinfunction "A3_14")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "14")
+				(pinfunction "I0d_14")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "27")
+			(name "/4mb mapper nms8280/IC147_P15_IC147B")
+			(class "Default")
+			(node
+				(ref "CONN147")
+				(pin "15")
+				(pinfunction "E_15")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147")
+				(pin "15")
+				(pinfunction "E_15")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "15")
+				(pinfunction "E_15")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "28")
+			(name "/4mb mapper nms8280/IC149_P1")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "1")
+				(pinfunction "D2_1")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "1")
+				(pinfunction "D2_1")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "29")
+			(name "/4mb mapper nms8280/IC149_P2")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "2")
+				(pinfunction "D3_2")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "2")
+				(pinfunction "D3_2")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "30")
+			(name "/4mb mapper nms8280/IC149_P3")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "3")
+				(pinfunction "D4_3")
+				(pintype "input")
+			)
+			(node
+				(ref "IC131B1")
+				(pin "3")
+				(pinfunction "1O_3")
+				(pintype "tri_state")
+			)
+			(node
+				(ref "IC149")
+				(pin "3")
+				(pinfunction "D4_3")
+				(pintype "input")
+			)
+			(node
+				(ref "J1")
+				(pin "6")
+				(pinfunction "Pin_6_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "31")
+			(name "/4mb mapper nms8280/IC149_P4_IC149B")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "4")
+				(pinfunction "RB_4")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "4")
+				(pinfunction "Rb_4")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "4")
+				(pinfunction "Rb_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "32")
+			(name "/4mb mapper nms8280/IC149_P5_IC149B")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "5")
+				(pinfunction "RA_5")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "5")
+				(pinfunction "Ra_5")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "5")
+				(pinfunction "Ra_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "33")
+			(name "/4mb mapper nms8280/IC149_P6")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "6")
+				(pinfunction "Q4_6")
+				(pintype "tri_state")
+			)
+			(node
+				(ref "IC131B1")
+				(pin "2")
+				(pinfunction "1D_2")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "3")
+				(pinfunction "I1a_3")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "6")
+				(pinfunction "Q4_6")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "34")
+			(name "/4mb mapper nms8280/IC149_P7")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "7")
+				(pinfunction "Q3_7")
+				(pintype "tri_state")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "2")
+				(pinfunction "I0a_2")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "7")
+				(pinfunction "Q3_7")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "35")
+			(name "/4mb mapper nms8280/IC149_P9")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "9")
+				(pinfunction "Q2_9")
+				(pintype "tri_state")
+			)
+			(node
+				(ref "IC149")
+				(pin "9")
+				(pinfunction "Q2_9")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "36")
+			(name "/4mb mapper nms8280/IC149_P10")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "10")
+				(pinfunction "Q1_10")
+				(pintype "tri_state")
+			)
+			(node
+				(ref "IC149")
+				(pin "10")
+				(pinfunction "Q1_10")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "37")
+			(name "/4mb mapper nms8280/IC149_P11_IC149B")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "11")
+				(pinfunction "ER_11")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "11")
+				(pinfunction "~{Er}_11")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "11")
+				(pinfunction "~{Er}_11")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "38")
+			(name "/4mb mapper nms8280/IC149_P12_IC149B")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "12")
+				(pinfunction "EW_12")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "12")
+				(pinfunction "~{Ew}_12")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "12")
+				(pinfunction "~{Ew}_12")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "39")
+			(name "/4mb mapper nms8280/IC149_P13_IC149B")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "13")
+				(pinfunction "WB_13")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "13")
+				(pinfunction "Wb_13")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "13")
+				(pinfunction "Wb_13")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "40")
+			(name "/4mb mapper nms8280/IC149_P14_IC149B")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "14")
+				(pinfunction "WA_14")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "14")
+				(pinfunction "Wa_14")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "14")
+				(pinfunction "Wa_14")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "41")
+			(name "/4mb mapper nms8280/IC149_P15")
+			(class "Default")
+			(node
+				(ref "CONN149")
+				(pin "15")
+				(pinfunction "D1_15")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149")
+				(pin "15")
+				(pinfunction "D1_15")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "42")
+			(name "/ram section/A0_IC133{slash}134_P14")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "14")
+				(pinfunction "A0_14")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "9")
+				(pinfunction "A0_9")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "9")
+				(pinfunction "A0_9")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "43")
+			(name "/ram section/A1_IC133{slash}134_P13")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "13")
+				(pinfunction "A1_13")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "10")
+				(pinfunction "A1_10")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "10")
+				(pinfunction "A1_10")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "44")
+			(name "/ram section/A2_IC133{slash}134_P12")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "12")
+				(pinfunction "A2_12")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "11")
+				(pinfunction "A2_11")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "11")
+				(pinfunction "A2_11")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "45")
+			(name "/ram section/A3_IC133{slash}134_P11")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "11")
+				(pinfunction "A3_11")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "12")
+				(pinfunction "A3_12")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "12")
+				(pinfunction "A3_12")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "46")
+			(name "/ram section/A4_IC133{slash}134_P8")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "8")
+				(pinfunction "A4_8")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "15")
+				(pinfunction "A4_15")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "15")
+				(pinfunction "A4_15")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "47")
+			(name "/ram section/A5_IC133{slash}134_P7")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "7")
+				(pinfunction "A5_7")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "16")
+				(pinfunction "A5_16")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "16")
+				(pinfunction "A5_16")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "48")
+			(name "/ram section/A6_IC133{slash}134_P6")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "6")
+				(pinfunction "A6_6")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "17")
+				(pinfunction "A6_17")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "17")
+				(pinfunction "A6_17")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "49")
+			(name "/ram section/A7_IC133{slash}134_P10")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "10")
+				(pinfunction "A7_10")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "18")
+				(pinfunction "A7_18")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "18")
+				(pinfunction "A7_18")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "50")
+			(name "/ram section/CAS_IC133{slash}134_P16")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "16")
+				(pinfunction "CAS_16")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "23")
+				(pinfunction "CAS_23")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "23")
+				(pinfunction "CAS_23")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "51")
+			(name "/ram section/D0_IC134_P2")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "2")
+				(pinfunction "D0_2")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U1")
+				(pin "2")
+				(pinfunction "D0_2")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "52")
+			(name "/ram section/D1_IC134_P3")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "3")
+				(pinfunction "D1_3")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U1")
+				(pin "3")
+				(pinfunction "D1_3")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "53")
+			(name "/ram section/D2_IC134_P15")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "15")
+				(pinfunction "D2_15")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U1")
+				(pin "24")
+				(pinfunction "D2_24")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "54")
+			(name "/ram section/D3_IC134_P17")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "17")
+				(pinfunction "D3_17")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U1")
+				(pin "25")
+				(pinfunction "D3_25")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "55")
+			(name "/ram section/D4_IC133_P2")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "2")
+				(pinfunction "D0_2")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U2")
+				(pin "2")
+				(pinfunction "D0_2")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "56")
+			(name "/ram section/D5_IC133_P3")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "3")
+				(pinfunction "D1_3")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U2")
+				(pin "3")
+				(pinfunction "D1_3")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "57")
+			(name "/ram section/D6_IC133_P15")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "15")
+				(pinfunction "D2_15")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U2")
+				(pin "24")
+				(pinfunction "D2_24")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "58")
+			(name "/ram section/D7_IC133_P17")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "17")
+				(pinfunction "D3_17")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "U2")
+				(pin "25")
+				(pinfunction "D3_25")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "59")
+			(name "/ram section/RAS_IC133_P5")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "5")
+				(pinfunction "RAS_5")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "5")
+				(pinfunction "RAS_5")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "5")
+				(pinfunction "RAS_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "60")
+			(name "/ram section/WE_IC133_P4")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "4")
+				(pinfunction "WE_4")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "4")
+				(pinfunction "WE_4")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "4")
+				(pinfunction "WE_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "61")
+			(name "A8_IC147B_P4")
+			(class "Default")
+			(node
+				(ref "IC147B1")
+				(pin "4")
+				(pinfunction "Za_4")
+				(pintype "output")
+			)
+			(node
+				(ref "U1")
+				(pin "19")
+				(pinfunction "A8_19")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "19")
+				(pinfunction "A8_19")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "62")
+			(name "A9_IC147B_P7")
+			(class "Default")
+			(node
+				(ref "IC147B1")
+				(pin "7")
+				(pinfunction "Zb_7")
+				(pintype "output")
+			)
+			(node
+				(ref "U1")
+				(pin "21")
+				(pinfunction "A9_21")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "21")
+				(pinfunction "A9_21")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "63")
+			(name "A10_IC147B_P7")
+			(class "Default")
+			(node
+				(ref "IC147B1")
+				(pin "9")
+				(pinfunction "Zc_9")
+				(pintype "output")
+			)
+			(node
+				(ref "U1")
+				(pin "8")
+				(pinfunction "A10_8")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "8")
+				(pinfunction "A10_8")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "64")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C131")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C131B1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C131B2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C147")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C147B1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C149")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C149B1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C157B1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C180B1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "CONN131")
+				(pin "7")
+				(pinfunction "GND_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "CONN133")
+				(pin "1")
+				(pinfunction "OE_1")
+				(pintype "input")
+			)
+			(node
+				(ref "CONN133")
+				(pin "18")
+				(pinfunction "GND_18")
+				(pintype "power_in")
+			)
+			(node
+				(ref "CONN134")
+				(pin "1")
+				(pinfunction "OE_1")
+				(pintype "input")
+			)
+			(node
+				(ref "CONN134")
+				(pin "18")
+				(pinfunction "GND_18")
+				(pintype "power_in")
+			)
+			(node
+				(ref "CONN147")
+				(pin "8")
+				(pinfunction "GND_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "CONN149")
+				(pin "8")
+				(pinfunction "GND_8")
+				(pintype "power_out")
+			)
+			(node
+				(ref "IC131")
+				(pin "7")
+				(pinfunction "GND_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC131B1")
+				(pin "7")
+				(pinfunction "GND_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC131C1")
+				(pin "7")
+				(pinfunction "GND_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC147")
+				(pin "8")
+				(pinfunction "GND_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "8")
+				(pinfunction "GND_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC149")
+				(pin "8")
+				(pinfunction "GND_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "8")
+				(pinfunction "GND_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC157B1")
+				(pin "7")
+				(pinfunction "GND_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC180B1")
+				(pin "7")
+				(pinfunction "GND_7")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "14")
+				(pinfunction "GND_14")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "22")
+				(pinfunction "OE_22")
+				(pintype "input")
+			)
+			(node
+				(ref "U1")
+				(pin "26")
+				(pinfunction "GND_26")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U2")
+				(pin "14")
+				(pinfunction "GND_14")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U2")
+				(pin "22")
+				(pinfunction "OE_22")
+				(pintype "input")
+			)
+			(node
+				(ref "U2")
+				(pin "26")
+				(pinfunction "GND_26")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "65")
+			(name "Net-(IC131B1-2D)")
+			(class "Default")
+			(node
+				(ref "IC131B1")
+				(pin "5")
+				(pinfunction "2D_5")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "5")
+				(pinfunction "I0b_5")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "10")
+				(pinfunction "Q1_10")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "66")
+			(name "Net-(IC131B1-2O)")
+			(class "Default")
+			(node
+				(ref "IC131B1")
+				(pin "6")
+				(pinfunction "2O_6")
+				(pintype "tri_state")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "15")
+				(pinfunction "D1_15")
+				(pintype "input")
+			)
+			(node
+				(ref "J1")
+				(pin "7")
+				(pinfunction "Pin_7_7")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "67")
+			(name "Net-(IC131B1-3D)")
+			(class "Default")
+			(node
+				(ref "IC131B1")
+				(pin "9")
+				(pinfunction "3D_9")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "6")
+				(pinfunction "I1b_6")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "9")
+				(pinfunction "Q2_9")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "68")
+			(name "Net-(IC131B1-3O)")
+			(class "Default")
+			(node
+				(ref "IC131B1")
+				(pin "8")
+				(pinfunction "3O_8")
+				(pintype "tri_state")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "1")
+				(pinfunction "D2_1")
+				(pintype "input")
+			)
+			(node
+				(ref "J1")
+				(pin "8")
+				(pinfunction "Pin_8_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "69")
+			(name "Net-(IC131B1-4D)")
+			(class "Default")
+			(node
+				(ref "IC131B1")
+				(pin "12")
+				(pinfunction "4D_12")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "11")
+				(pinfunction "I0c_11")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "7")
+				(pinfunction "Q3_7")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "70")
+			(name "Net-(IC131B1-4O)")
+			(class "Default")
+			(node
+				(ref "IC131B1")
+				(pin "11")
+				(pinfunction "4O_11")
+				(pintype "tri_state")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "2")
+				(pinfunction "D3_2")
+				(pintype "input")
+			)
+			(node
+				(ref "J1")
+				(pin "9")
+				(pinfunction "Pin_9_9")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "71")
+			(name "Net-(IC131C1-1D)")
+			(class "Default")
+			(node
+				(ref "IC131C1")
+				(pin "2")
+				(pinfunction "1D_2")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "10")
+				(pinfunction "I1c_10")
+				(pintype "input")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "6")
+				(pinfunction "Q4_6")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "72")
+			(name "Net-(IC131C1-1O)")
+			(class "Default")
+			(node
+				(ref "IC131C1")
+				(pin "3")
+				(pinfunction "1O_3")
+				(pintype "tri_state")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "3")
+				(pinfunction "D4_3")
+				(pintype "input")
+			)
+			(node
+				(ref "J1")
+				(pin "10")
+				(pinfunction "Pin_10_10")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "73")
+			(name "Net-(IC147B1-I0d)")
+			(class "Default")
+			(node
+				(ref "IC147B1")
+				(pin "12")
+				(pinfunction "Zd_12")
+				(pintype "output")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "13")
+				(pinfunction "I1d_13")
+				(pintype "input")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "14")
+				(pinfunction "I0d_14")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "74")
+			(name "Net-(IC157B1-1A)")
+			(class "Default")
+			(node
+				(ref "IC157B1")
+				(pin "1")
+				(pinfunction "1A_1")
+				(pintype "input")
+			)
+			(node
+				(ref "IC157B1")
+				(pin "4")
+				(pinfunction "2A_4")
+				(pintype "input")
+			)
+			(node
+				(ref "J1")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "75")
+			(name "Net-(IC157B1-1B)")
+			(class "Default")
+			(node
+				(ref "IC157B1")
+				(pin "2")
+				(pinfunction "1B_2")
+				(pintype "input")
+			)
+			(node
+				(ref "IC157B1")
+				(pin "5")
+				(pinfunction "2B_5")
+				(pintype "input")
+			)
+			(node
+				(ref "IC180B1")
+				(pin "6")
+				(pinfunction "2Y_6")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "76")
+			(name "Net-(IC157B1-1Y)")
+			(class "Default")
+			(node
+				(ref "IC157B1")
+				(pin "3")
+				(pinfunction "1Y_3")
+				(pintype "output")
+			)
+			(node
+				(ref "J1")
+				(pin "5")
+				(pinfunction "Pin_5_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "77")
+			(name "Net-(IC157B1-2Y)")
+			(class "Default")
+			(node
+				(ref "IC157B1")
+				(pin "6")
+				(pinfunction "2Y_6")
+				(pintype "output")
+			)
+			(node
+				(ref "J1")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "78")
+			(name "Net-(IC157B1-3A)")
+			(class "Default")
+			(node
+				(ref "IC157B1")
+				(pin "10")
+				(pinfunction "3B_10")
+				(pintype "input")
+			)
+			(node
+				(ref "IC157B1")
+				(pin "11")
+				(pinfunction "4Y_11")
+				(pintype "output")
+			)
+			(node
+				(ref "IC157B1")
+				(pin "9")
+				(pinfunction "3A_9")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "79")
+			(name "Net-(IC180B1-1Y)")
+			(class "Default")
+			(node
+				(ref "IC180B1")
+				(pin "3")
+				(pinfunction "1Y_3")
+				(pintype "output")
+			)
+			(node
+				(ref "IC180B1")
+				(pin "4")
+				(pinfunction "2A_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "80")
+			(name "Net-(IC180B1-2B)")
+			(class "Default")
+			(node
+				(ref "IC180B1")
+				(pin "5")
+				(pinfunction "2B_5")
+				(pintype "input")
+			)
+			(node
+				(ref "J1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "81")
+			(name "Net-(IC180B1-3A)")
+			(class "Default")
+			(node
+				(ref "IC180B1")
+				(pin "10")
+				(pinfunction "3B_10")
+				(pintype "input")
+			)
+			(node
+				(ref "IC180B1")
+				(pin "11")
+				(pinfunction "4Y_11")
+				(pintype "output")
+			)
+			(node
+				(ref "IC180B1")
+				(pin "9")
+				(pinfunction "3A_9")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "82")
+			(name "Vcc")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C131")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C131B1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C131B2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C147")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C147B1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C149")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C149B1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C157B1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C180B1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "CONN131")
+				(pin "14")
+				(pinfunction "Vcc_14")
+				(pintype "power_in")
+			)
+			(node
+				(ref "CONN133")
+				(pin "9")
+				(pinfunction "Vcc_9")
+				(pintype "power_in")
+			)
+			(node
+				(ref "CONN134")
+				(pin "9")
+				(pinfunction "Vcc_9")
+				(pintype "power_in")
+			)
+			(node
+				(ref "CONN147")
+				(pin "16")
+				(pinfunction "Vcc_16")
+				(pintype "power_in")
+			)
+			(node
+				(ref "CONN149")
+				(pin "16")
+				(pinfunction "Vcc_16")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC131")
+				(pin "14")
+				(pinfunction "Vcc_14")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC131B1")
+				(pin "14")
+				(pinfunction "Vcc_14")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC131C1")
+				(pin "14")
+				(pinfunction "Vcc_14")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC147")
+				(pin "16")
+				(pinfunction "VCC_16")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC147B1")
+				(pin "16")
+				(pinfunction "VCC_16")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC149")
+				(pin "16")
+				(pinfunction "VCC_16")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC149B1")
+				(pin "16")
+				(pinfunction "VCC_16")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC157B1")
+				(pin "12")
+				(pinfunction "4A_12")
+				(pintype "input")
+			)
+			(node
+				(ref "IC157B1")
+				(pin "13")
+				(pinfunction "4B_13")
+				(pintype "input")
+			)
+			(node
+				(ref "IC157B1")
+				(pin "14")
+				(pinfunction "Vcc_14")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IC180B1")
+				(pin "12")
+				(pinfunction "4A_12")
+				(pintype "input")
+			)
+			(node
+				(ref "IC180B1")
+				(pin "13")
+				(pinfunction "4B_13")
+				(pintype "input")
+			)
+			(node
+				(ref "IC180B1")
+				(pin "14")
+				(pinfunction "Vcc_14")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "Vcc_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U1")
+				(pin "13")
+				(pinfunction "Vcc_13")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U2")
+				(pin "1")
+				(pinfunction "Vcc_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "U2")
+				(pin "13")
+				(pinfunction "Vcc_13")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "83")
+			(name "unconnected-(CONN133-A0-Pad14)")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "14")
+				(pinfunction "A0_14")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "84")
+			(name "unconnected-(CONN133-A1-Pad13)")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "13")
+				(pinfunction "A1_13")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "85")
+			(name "unconnected-(CONN133-A2-Pad12)")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "12")
+				(pinfunction "A2_12")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "86")
+			(name "unconnected-(CONN133-A3-Pad11)")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "11")
+				(pinfunction "A3_11")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "87")
+			(name "unconnected-(CONN133-A7-Pad10)")
+			(class "Default")
+			(node
+				(ref "CONN133")
+				(pin "10")
+				(pinfunction "A7_10")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "88")
+			(name "unconnected-(CONN134-A4-Pad8)")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "8")
+				(pinfunction "A4_8")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "89")
+			(name "unconnected-(CONN134-A5-Pad7)")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "7")
+				(pinfunction "A5_7")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "90")
+			(name "unconnected-(CONN134-A6-Pad6)")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "6")
+				(pinfunction "A6_6")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "91")
+			(name "unconnected-(CONN134-CAS-Pad16)")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "16")
+				(pinfunction "CAS_16")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "92")
+			(name "unconnected-(CONN134-RAS-Pad5)")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "5")
+				(pinfunction "RAS_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "93")
+			(name "unconnected-(CONN134-WE-Pad4)")
+			(class "Default")
+			(node
+				(ref "CONN134")
+				(pin "4")
+				(pinfunction "WE_4")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "94")
+			(name "unconnected-(IC131C1-2D-Pad5)")
+			(class "Default")
+			(node
+				(ref "IC131C1")
+				(pin "5")
+				(pinfunction "2D_5")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "95")
+			(name "unconnected-(IC131C1-2O-Pad6)")
+			(class "Default")
+			(node
+				(ref "IC131C1")
+				(pin "6")
+				(pinfunction "2O_6")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "96")
+			(name "unconnected-(IC131C1-3D-Pad9)")
+			(class "Default")
+			(node
+				(ref "IC131C1")
+				(pin "9")
+				(pinfunction "3D_9")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "97")
+			(name "unconnected-(IC131C1-3O-Pad8)")
+			(class "Default")
+			(node
+				(ref "IC131C1")
+				(pin "8")
+				(pinfunction "3O_8")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "98")
+			(name "unconnected-(IC131C1-4D-Pad12)")
+			(class "Default")
+			(node
+				(ref "IC131C1")
+				(pin "12")
+				(pinfunction "4D_12")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "99")
+			(name "unconnected-(IC131C1-4O-Pad11)")
+			(class "Default")
+			(node
+				(ref "IC131C1")
+				(pin "11")
+				(pinfunction "4O_11")
+				(pintype "tri_state")
+			)
+		)
+		(net
+			(code "100")
+			(name "unconnected-(IC157B1-3Y-Pad8)")
+			(class "Default")
+			(node
+				(ref "IC157B1")
+				(pin "8")
+				(pinfunction "3Y_8")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "101")
+			(name "unconnected-(IC180B1-3Y-Pad8)")
+			(class "Default")
+			(node
+				(ref "IC180B1")
+				(pin "8")
+				(pinfunction "3Y_8")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "102")
+			(name "unconnected-(U1-NC-Pad6)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "6")
+				(pinfunction "NC_6")
+				(pintype "no_connect")
+			)
+		)
+		(net
+			(code "103")
+			(name "unconnected-(U2-NC-Pad6)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "6")
+				(pinfunction "NC_6")
+				(pintype "no_connect")
+			)
+		)
+	)
+)
