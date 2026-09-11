@@ -13,7 +13,7 @@ In here you will find my PCB design, based on the original design by Hans Oranje
 
 My goal was to create a PCB to get rid of most of the wiring described in the original paper.
 
-Why design a yet another PCB, while there are so many other solutions? 
+Why design yet another PCB, while there are so many other solutions? 
 
 - This design replaces the stock memory, so it doesn't occupy a (expanded) slot. It just keeps the memory at slot 3.2
 - No piggybacking IC's on the original IC's. The piggybacking still occurs, but neatly on the PCB
