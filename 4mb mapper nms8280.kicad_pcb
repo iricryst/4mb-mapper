@@ -609,7 +609,7 @@
 		(descr "SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf)")
 		(tags "SOIC SO")
 		(property "Reference" "IC180B1"
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "8d8d4504-7673-4cc1-963c-57a48a3af499")
 			(effects
@@ -619,7 +619,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS00"
 			(at 0 5.28 90)
 			(layer "F.Fab")
 			(uuid "bb1ee6c2-c094-42a6-9998-2c6cb878a10a")
@@ -1060,7 +1060,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "HY5117404B"
 			(at 0 10.16 90)
 			(layer "F.Fab")
 			(uuid "33272adc-88b8-4e5d-b4f8-ee7bf016ed22")
@@ -1639,7 +1639,7 @@
 		(descr "SOIC, 14 Pin (JEDEC MS-012AB, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_14.pdf)")
 		(tags "SOIC SO")
 		(property "Reference" "IC157B1"
-			(at 0 0.14 180)
+			(at 0 0.14 0)
 			(layer "F.SilkS")
 			(uuid "97c5ae03-0cbd-4451-a888-06c88ddbd04c")
 			(effects
@@ -1649,10 +1649,9 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS08"
 			(at 0 5.28 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "bf762341-180a-4234-85af-933a1878ed69")
 			(effects
 				(font
@@ -2249,7 +2248,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS125"
 			(at 0 5.28 90)
 			(layer "F.Fab")
 			(uuid "44dde7a9-2c6d-48e8-9020-1d106d7187af")
@@ -4919,7 +4918,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "HY5117404B"
 			(at 0 10.16 90)
 			(layer "F.Fab")
 			(uuid "2db88511-b68c-42a2-9824-60bd219140cd")
@@ -5983,7 +5982,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS125"
 			(at 0 5.28 90)
 			(layer "F.Fab")
 			(uuid "01904877-7fc9-4ae4-857d-b5b5658678bb")
@@ -6585,7 +6584,6 @@
 		(property "Value" "74LS670"
 			(at 0 5.9 90)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "22fc603a-a875-4865-9f25-9bf8add6330c")
 			(effects
 				(font
@@ -7975,7 +7973,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "74LS125"
 			(at 0 5.28 90)
 			(layer "F.Fab")
 			(uuid "98c3151b-2ec2-46ba-83fb-8cc67f0150f0")

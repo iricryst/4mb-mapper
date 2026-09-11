@@ -11,6 +11,10 @@ Project to document and create a 4MB module for a Philips NMS8280 MSX.
 The KiCad project, custom symbols, footprints, and board image are in
 [kicad](./kicad). Datasheets are kept in [kicad/datasheets](./kicad/datasheets).
 
+## Bill of Materials
+
+<a href="./bom/ibom.html" target="_blank" rel="noopener noreferrer">Open the interactive BOM</a>
+
 ## Datasheets
 
 - [SN74LS00](./kicad/datasheets/SN74LS00.pdf)

@@ -120,7 +120,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "error",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
@@ -548,7 +548,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "idf": "",
+      "idf": "4mb mapper nms8280.emn",
       "netlist": "",
       "plot": "C:/1mb mapper nms8280/gerber/",
       "specctra_dsn": "",
