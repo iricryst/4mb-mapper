@@ -23,7 +23,7 @@ Why design yet another PCB, while there are so many other solutions?
 
 ## BOM
 
-<a href="https://htmlpreview.github.io/?hhttps://github.com/iricryst/4mb-mapper/blob/main/KICAD/bom/ibom.html" target="_blank" rel="noopener noreferrer">BOM</a>
+<a href="https://htmlpreview.github.io/?https://github.com/iricryst/4mb-mapper/blob/main/KICAD/bom/ibom.html" target="_blank" rel="noopener noreferrer">BOM</a>
 
 <a href="./KICAD/bom/ibom.html" target="_blank" rel="noopener noreferrer">BOM</a>
 
