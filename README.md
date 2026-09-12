@@ -1,6 +1,8 @@
 # Philips NMS8280 MSX2 4MB memory mapper
 
-![4MB mapper PCB](./KICAD/4mbmapper.png)
+![4MB mapper PCB front](./KICAD/4mbmapper_front.png)
+
+![4MB mapper PCB back](./KICAD/4mbmapper_back.png)
 
 First and foremost:
 
